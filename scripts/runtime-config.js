@@ -1,5 +1,5 @@
 (function initRuntimeConfig(global){
-    const BASE_URL = 'https://worange02.github.io/liars/';
+    const BASE_URL = 'https://worange02/liars/';
     const SUITS = ['♠','♥','♦','♣'];
     const RANKS = ['A','2','3','4','5','6','7','8','9','10','J','Q','K'];
     const RED_SUITS = new Set(['♥','♦']);
